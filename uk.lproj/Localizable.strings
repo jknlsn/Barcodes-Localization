@@ -1,0 +1,193 @@
+/*
+  Localizable.strings
+  Barcodes
+
+  Created by Jake Nelson on 28/03/2022.
+*/
+
+/* Just in case */
+"Hello, World!" = "Hello, World!";
+
+/* Card item swipe heading and swipe options */
+"Favourite" = "Favourite";
+"Unfavourite" = "Unfavourite";
+
+/* Apple Watch */
+"Set up cards on your iPhone and check back here!" = "Set up cards on your iPhone and check back here!";
+
+/* Widget */
+"Shows a single code for fast access." = "Shows a single code for fast access.";
+"Single Card" = "Single Card";
+
+/* Store page */
+"Barcodes Unlimited" = "Barcodes Unlimited";
+"One time purchase" = "One time purchase";
+"Unlimited" = "Unlimited";
+"Unlock all app icons" = "Unlock all app icons";
+"Please get Barcodes Unlimited to set this icon!" = "Please get Barcodes Unlimited to set this icon!";
+"Purchased" = "Purchased";
+"Remove all ads" = "Remove all ads";
+"Restore purchases" = "Restore purchases";
+"Scan and store unlimited barcodes" = "Scan and store unlimited barcodes";
+"Subscribed until %@." = "Subscribed until %@.";
+"Subscription" = "Subscription";
+"Support development" = "Support development";
+"Trial period without ads starts from when you first open the app, and lasts for 5 days. Free trial removes ads, but the limit on number of cards is still present." = "Trial period without ads starts from when you first open the app, and lasts for 5 days. Free trial removes ads, but the limit on number of cards is still present.";
+"Unlock all features with Barcodes Unlimited" = "Unlock all features with Barcodes Unlimited";
+"You have Barcodes Unlimited" = "You have Barcodes Unlimited";
+"You have Unlimited Lifetime! Thanks for supporting." = "You have Unlimited Lifetime! Thanks for supporting.";
+"You have Unlimited Monthly! Thanks for supporting." = "You have Unlimited Monthly! Thanks for supporting.";
+
+/* Free trial remaining */
+"Free trial days left:" = "Free trial days left:";
+
+/* Changelog */
+"What's New" = "What's New";
+"What's new in" = "What's new in";
+
+/* Colors */
+"black" = "black";
+"blue" = "blue";
+"dark gray" = "dark gray";
+"gray" = "gray";
+"green" = "green";
+"indigo" = "indigo";
+"orange" = "orange";
+"pink" = "pink";
+"purple" = "purple";
+"red" = "red";
+"teal" = "teal";
+"yellow" = "yellow";
+"white" = "white";
+
+/* General UI */
+"Cancel" = "Cancel";
+"Close" = "Close";
+"Continue" = "Continue";
+"Delete" = "Delete";
+"Error" = "Error";
+"Save" = "Save";
+"OK" = "OK";
+"Okay" = "Okay";
+
+/* iCloud Status */
+"Online" = "Online";
+"Troubleshooting" = "Troubleshooting";
+"Check here for any iCloud related service issues currently impacting availability." = "Check here for any iCloud related service issues currently impacting availability.";
+"First try closing the app and restarting." = "First try closing the app and restarting.";
+"If this doesn't work, occasionally restarting your entire device will help." = "If this doesn't work, occasionally restarting your entire device will help.";
+"Remember this is only the status of the iCloud sync. Your items are still available on your device always." = "Remember this is only the status of the iCloud sync. Your items are still available on your device always.";
+"Finally, just wait and check back later and often the issue will be resolved." = "Finally, just wait and check back later and often the issue will be resolved.";
+"Apple System Status Page" = "Apple System Status Page";
+
+/* Add card views */
+"Barcode" = "Barcode";
+"Error: This code is already stored in your wallet." = "Error: This code is already stored in your wallet.";
+"Code display" = "Code display";
+"Color and Symbol" = "Color and Symbol";
+"Name" = "Name";
+"Symbol" = "Symbol";
+"Select from palette" = "Select from palette";
+"Icon color and symbol" = "Icon color and symbol";
+
+/* Main Screen */
+"Add Item" = "Add Item";
+"Import" = "Import";
+"Import from Photos" = "Import from Photos";
+"Scan code" = "Scan code";
+"Scan with Camera" = "Scan with Camera";
+"Search" = "Search";
+"Sort" = "Sort";
+"Sorting options" = "Sorting options";
+"Favourites" = "Favourites";
+"Wallet" = "Wallet";
+
+/* In app purchases / upgrade screen from Settings */
+"Ad-free trial" = "Ad-free trial";
+"Barcodes Unlimited" = "Barcodes Unlimited";
+"Launch" = "Launch";
+"Launch confetti!" = "Launch confetti!";
+"Manage subscription." = "Manage subscription.";
+
+/* Purchase frequency in upgrade screen */
+"%@ once" = "%@ once";
+"%@ / month" = "%@ / month";
+
+/* Card limitations */
+"%lld cards used out of 10" = "%lld cards used out of 10";
+"%lld/10" = "%lld/10";
+
+/* Placeholders - for barcode and for store name for card */
+"9794027964034677" = "9794027964034677";
+"ABC store" = "ABC store";
+"(unnamed)" = "(unnamed)";
+
+/* Settings labels */
+"Appearance" = "Appearance";
+"Application" = "Application";
+"About" = "About";
+"Acknowledgements" = "Acknowledgements";
+"Open Source" = "Open Source";
+"Auto brighten screen" = "Auto brighten screen";
+"Behaviour" = "Behaviour";
+"Changelogs" = "Changelogs";
+"Color" = "Color";
+"Confirm delete" = "Confirm delete";
+"Contact" = "Contact";
+"Developer" = "Developer";
+"Export log files" = "Export log files";
+"FAQ's" = "FAQ's";
+"iCloud" = "iCloud";
+"iCloud sync status" = "iCloud sync status";
+"Icon" = "Icon";
+"Status" = "Status";
+"Settings" = "Settings";
+"Terms" = "Terms";
+"Theme color" = "Theme color";
+"Support" = "Support";
+"Privacy policy" = "Privacy policy";
+"Review on the App Store" = "Review on the App Store";
+
+/* About Screen */
+"Developed free-range in London, United Kingdom by **Jake Nelson**" = "Developed free-range in London, United Kingdom by **Jake Nelson**";
+
+/* Open source credit */
+"Find more details and complete licences on GitHub." = "Find more details and complete licences on GitHub.";
+
+
+/* Introduction */
+"Add your first barcode by tapping the plus button at the top right corner of the screen, and then 'Scan with Camera'." = "Add your first barcode by tapping the plus button at the top right corner of the screen, and then 'Scan with Camera'.";
+"Welcome" = "Welcome";
+"Import your barcodes from screenshots or existing photos by selecting 'Import from Photos'." = "Import your barcodes from screenshots or existing photos by selecting 'Import from Photos'.";
+
+/* Warnings and dialogue */
+"Are you sure? Once deleted it can't be recovered." = "Are you sure? Once deleted it can't be recovered.";
+"Found Barcode" = "Found Barcode";
+"Import summary" = "Import summary";
+"Note: This code type (%@) can be scanned and saved but will be displayed in a newer format." = "Note: This code type (%@) can be scanned and saved but will be displayed in a newer format.";
+
+/* FAQ */
+"Barcodes does not sell your user data, so sustainable development requires in app purchases and privacy friendly ads in order to fund sustainable development. You can choose to use Barcodes for free ad supported, or upgrade to Unlimited for full feature access with a monthly or once off payment as suits you best." = "Barcodes does not sell your user data, so sustainable development requires in app purchases and privacy friendly ads in order to fund sustainable development. You can choose to use Barcodes for free ad supported, or upgrade to Unlimited for full feature access with a monthly or once off payment as suits you best.";
+
+"Barcodes has in app purchases to fund sustainable development. You can choose to use the app for free supported by privacy friendly advertising with some limitations, or upgrade to remove ads and unlock all features." = "Barcodes has in app purchases to fund sustainable development. You can choose to use the app for free supported by privacy friendly advertising with some limitations, or upgrade to remove ads and unlock all features.";
+
+"No, but Siri does. Barcodes tells Siri when you take actions in the app, and if Siri notices a pattern it can automatically surface these actions in the app. That's why you might notice that Siri may suggest Barcodes after you have been using it regularly to scan into your gym or at your local checkout!" = "No, but Siri does. Barcodes tells Siri when you take actions in the app, and if Siri notices a pattern it can automatically surface these actions in the app. That's why you might notice that Siri may suggest Barcodes after you have been using it regularly to scan into your gym or at your local checkout!";
+
+"Does Barcodes have access to my location?" = "Does Barcodes have access to my location?";
+
+"Email me at hello@barcodesapp.com I would love to hear it!" = "Email me at hello@barcodesapp.com I would love to hear it!";
+
+"Please get in touch through Settings if you have any feedback or for support!" = "Please get in touch through Settings if you have any feedback or for support!";
+
+"Why does the app require payment for full functionality?" = "Why does the app require payment for full functionality?";
+
+"How can I make a suggestion?" = "How can I make a suggestion?";
+
+/* RAW INTERPOLATION TEMPLATES, don't need translating */
+"%@" = "%@";
+"%@ " = "%@ ";
+"%@: %@" = "%@: %@";
+
+/* Changelog */
+"Improved search" = "Improved search";
+"Initial release!" = "Initial release!";
